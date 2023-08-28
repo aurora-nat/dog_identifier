@@ -4,7 +4,7 @@
 Deep Learning Techniques to identifying a dog or human face. 
 
 This project utilizes Convolution Neural Network (CNN) techniques to classify dog breeds and human faces. The models utilize real-world user-supplied images and the famous imageNet database to train or transfer learn new models for the classification of dog breeds. This project fufills the Udacity Data Scientist Nanodegree Capstone Project and our goal of developing an algorithm that could be utilized on a mobile application. Our final algorithm utilizes a transfer learning method to classify the model as this provides the highest accuracy.
-For a full description of our project check out the Medium Blog Post: https://nataly-nuila.medium.com/are-you-a-hooman-or-a-dog-f506fa54e19d
+For a full description of our project check out the [Medium Blog Post](https://nataly-nuila.medium.com/are-you-a-hooman-or-a-dog-f506fa54e19d)
 
 ## Table of Contents
 1. Deep learning techniques used
